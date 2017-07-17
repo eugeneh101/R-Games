@@ -1,7 +1,7 @@
 # These are games I made in R back in my college days.
 
 ## Conductor: 2 player snake game: 
-Multiple arguments to determine if you want to speed up the game, have the snakes slither diagonally, grow their tails, how many energy points left, etc.
+Multiple arguments to determine if you want to speed up the game, have the snakes slither diagonally, grow their tails, how many energy points left, etc.<br>
 <img src="Conductor1.png" height=400>
 <br>Starting positions
 <img src="Conductor2.png" height=400>
